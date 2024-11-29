@@ -37,7 +37,7 @@ I thrive in environments where learning and collaboration are key, and I’m exc
 
 - 🤝 I’m looking for help with **improving myself**
 
-- 📝 I regularly write articles on [Business and Soft Skills](Business and Soft Skills)
+- 📝 I regularly write articles on (Business and Soft Skills)
 
 - 📫 How to reach me **maabalfadil2001@gmail.com**
 
