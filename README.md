@@ -4,7 +4,6 @@
 ----
 ### personal information:
 - Full name: Maab Alfadil Mohamed Mohamedkhair
-- Date of birth: 5th-October-2001  
 - Experience level: Junior
 - Courses: 
   
