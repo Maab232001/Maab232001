@@ -8,8 +8,11 @@
 - Courses: 
   
   1.MIT Emerging Talent program (Foundation phase)
+  
   2.  AI basics from (Huawei)
+  
   3. Python for Data Scientist (edX platform)
+     
   4. Foundation of Project Management (Google)
 
 
@@ -52,4 +55,5 @@ I thrive in environments where learning and collaboration are key, and I’m exc
 <p><strong> <summary> Talk to me later, busy coding & learning 👀 </summary> </strong></p>
 
 </p>
+
 
